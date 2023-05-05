@@ -26,7 +26,7 @@ Per la realizzazione del suddetto programma, sono state utilizzate le funzioni:
 ``` 
 
 
-#### Funzione per calcolare i blocchi in eccesso
+### Funzione per calcolare i blocchi in eccesso
 ``` C#
 public static int Rimanenti( int mattoni, int piani )
         {
