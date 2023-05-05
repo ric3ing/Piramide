@@ -39,7 +39,7 @@ public static int Rimanenti( int mattoni, int piani )
 ```
 
 
-#### Consegna del problema trattato per esteso
+## Consegna del problema trattato per esteso
 Quando si avvia un progetto come la costruzione di una piramide, è meglio pensarci due volte.
 
 Il tuo compito oggi è scrivere un programma che calcoli l'altezza massima di una piramide (in piani) dato un certo numero di cubi di pietra.
