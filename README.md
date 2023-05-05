@@ -10,7 +10,7 @@ Per la realizzazione del suddetto programma, sono state utilizzate le funzioni:
 * Piani (per il calcolo dei piani);
 * Rimanenti (per il calcolo dei mattoni in eccesso).
 
-#### Funzione per calcolare i piani
+### Funzione per calcolare i piani
 
 ``` C#
  public static int Piani( int mattoni )
